@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resturantdata>
+ <menuname category="Pizza">
+  <item>iuyjiyu</item>
+  <price>10</price>
+ </menuname>
+ <menuname category="asdsd">
+  <item>asdas</item>
+  <price>12</price>
+ </menuname>
+ <menuname category="abc">
+  <item>def</item>
+  <price>123</price>
+ </menuname>
+ <menuname category="asdsd">
+  <item>ds</item>
+  <price>dsa</price>
+ </menuname>
+ <menuname category="Drinks">
+  <item>cha</item>
+  <price>20</price>
+ </menuname>
+</resturantdata>
